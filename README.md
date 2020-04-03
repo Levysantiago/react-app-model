@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a simple react app model that you can use to start building your react projects.
 
-##Getting started
+## Getting started
 
 ### Cloning the repository
 
