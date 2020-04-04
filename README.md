@@ -77,4 +77,5 @@ Then you can open http://localhost:3000 to view it in the browser. After each mo
 
 You can access the links below for more information
 
-- [Create-react-app](https://create-react-app.dev/docs/getting-started/)
+- [Create-react-app](https://github.com/facebook/create-react-app)
+- [Node.js](https://nodejs.org/)
